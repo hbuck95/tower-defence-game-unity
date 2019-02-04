@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <EN>
+    <string text="upgrade1_name">Heavy Hitter</string>
+    <string text="upgrade1_desc">Increase this units damage dealt by 10%</string>
+    <string text="upgrade1_cost">250</string>
+    <string text="upgrade1_levelReq">1</string>
+    <string text="upgrade1_damagerModifier">10</string>
+    <string text="upgrade1_healthModifier">0</string>
+    <string text="upgrade1_speedModifier">0</string>
+    <string text="upgrade1_resistanceModifier">0</string>
+    <string text="upgrade1_attackSpeedModifier">0</string>
+    <string text="upgrade1_accuracyModifier">0</string>
+    <string text="upgrade1_type">0</string>
+
+    <string text="upgrade2_name">Overdrive</string>
+    <string text="upgrade2_desc">Increase this units movement speed by 10%</string>
+    <string text="upgrade2_cost">250</string>
+    <string text="upgrade2_levelReq">1</string>
+    <string text="upgrade2_damagerModifier">0</string>
+    <string text="upgrade2_healthModifier">0</string>
+    <string text="upgrade2_speedModifier">10</string>
+    <string text="upgrade2_resistanceModifier">0</string>
+    <string text="upgrade2_attackSpeedModifier">0</string>
+    <string text="upgrade2_accuracyModifier">0</string>
+    <string text="upgrade2_type">0</string>
+
+    <string text="upgrade3_name">Metal Alloy</string>
+    <string text="upgrade3_desc">Increase this units damage resistance by 10%</string>
+    <string text="upgrade3_cost">250</string>
+    <string text="upgrade3_levelReq">1</string>
+    <string text="upgrade3_damagerModifier">0</string>
+    <string text="upgrade3_healthModifier">0</string>
+    <string text="upgrade3_speedModifier">0</string>
+    <string text="upgrade3_resistanceModifier">10</string>
+    <string text="upgrade3_attackSpeedModifier">0</string>
+    <string text="upgrade3_accuracyModifier">0</string>
+    <string text="upgrade3_type">0</string>
+
+    <string text="upgrade4_name">Exo Shield</string>
+    <string text="upgrade4_desc">Increase this units health by 15 points.</string>
+    <string text="upgrade4_cost">250</string>
+    <string text="upgrade4_levelReq">5</string>
+    <string text="upgrade4_damagerModifier">0</string>
+    <string text="upgrade4_healthModifier">15</string>
+    <string text="upgrade4_speedModifier">0</string>
+    <string text="upgrade4_resistanceModifier">0</string>
+    <string text="upgrade4_attackSpeedModifier">0</string>
+    <string text="upgrade4_accuracyModifier">0</string>
+    <string text="upgrade4_type">0</string>
+
+    <string text="upgrade5_name">Fast Production</string>
+    <string text="upgrade5_desc">Decrease the cooldown between spawnings units by 0.5 seconds.</string>
+    <string text="upgrade5_cost">350</string>
+    <string text="upgrade5_levelReq">7</string>
+    <string text="upgrade5_damagerModifier">0</string>
+    <string text="upgrade5_healthModifier">0</string>
+    <string text="upgrade5_speedModifier">0</string>
+    <string text="upgrade5_resistanceModifier">0</string>
+    <string text="upgrade5_attackSpeedModifier">0</string>
+    <string text="upgrade5_accuracyModifier">0</string>
+    <string text="upgrade5_type">2</string>
+
+    <string text="upgrade6_name">Increased Production</string>
+    <string text="upgrade6_desc">Increase the maximum number of friendly units allowed out by 2.</string>
+    <string text="upgrade6_cost">350</string>
+    <string text="upgrade6_levelReq">5</string>
+    <string text="upgrade6_damagerModifier">0</string>
+    <string text="upgrade6_healthModifier">0</string>
+    <string text="upgrade6_speedModifier">0</string>
+    <string text="upgrade6_resistanceModifier">0</string>
+    <string text="upgrade6_attackSpeedModifier">0</string>
+    <string text="upgrade6_accuracyModifier">0</string>
+    <string text="upgrade6_type">2</string>
+
+    <string text="upgrade7_name">Extra Building Slot</string>
+    <string text="upgrade7_desc">Increase the maximum number of friendly buildings allowed out by 1.</string>
+    <string text="upgrade7_cost">350</string>
+    <string text="upgrade7_levelReq">5</string>
+    <string text="upgrade7_damagerModifier">0</string>
+    <string text="upgrade7_healthModifier">0</string>
+    <string text="upgrade7_speedModifier">0</string>
+    <string text="upgrade7_resistanceModifier">0</string>
+    <string text="upgrade7_attackSpeedModifier">0</string>
+    <string text="upgrade7_accuracyModifier">0</string>
+    <string text="upgrade7_type">2</string>
+
+    <string text="upgrade8_name">Extra Upgrade Slot</string>
+    <string text="upgrade8_desc">Unlock a third upgrade slot for use on buildings and units.</string>
+    <string text="upgrade8_cost">400</string>
+    <string text="upgrade8_levelReq">10</string>
+    <string text="upgrade8_damagerModifier">0</string>
+    <string text="upgrade8_healthModifier">0</string>
+    <string text="upgrade8_speedModifier">0</string>
+    <string text="upgrade8_resistanceModifier">0</string>
+    <string text="upgrade8_attackSpeedModifier">0</string>
+    <string text="upgrade8_accuracyModifier">0</string>
+    <string text="upgrade8_type">2</string>
+
+    <string text="upgrade9_name">Fast Hands</string>
+    <string text="upgrade9_desc">Decrease the time between attacks by 0.5 seconds.</string>
+    <string text="upgrade9_cost">450</string>
+    <string text="upgrade9_levelReq">10</string>
+    <string text="upgrade9_damagerModifier">0</string>
+    <string text="upgrade9_healthModifier">0</string>
+    <string text="upgrade9_speedModifier">0</string>
+    <string text="upgrade9_resistanceModifier">0</string>
+    <string text="upgrade9_attackSpeedModifier">0.5</string>
+    <string text="upgrade9_accuracyModifier">0</string>
+    <string text="upgrade9_type">0</string>
+
+    <string text="upgrade10_name">Regeneration</string>
+    <string text="upgrade10_desc">Restores 5% of this units max health every 3 seconds.</string>
+    <string text="upgrade10_cost">475</string>
+    <string text="upgrade10_levelReq">12</string>
+    <string text="upgrade10_damagerModifier">0</string>
+    <string text="upgrade10_healthModifier">0</string>
+    <string text="upgrade10_speedModifier">0</string>
+    <string text="upgrade10_resistanceModifier">0</string>
+    <string text="upgrade10_attackSpeedModifier">0</string>
+    <string text="upgrade10_accuracyModifier">0</string>
+    <string text="upgrade10_type">0</string>
+
+    <string text="upgrade11_name">Reinforced Armour</string>
+    <string text="upgrade11_desc">Increases resistance by 20% and health by 50HP but decreases movement speed by 25%</string>
+    <string text="upgrade11_cost">500</string>
+    <string text="upgrade11_levelReq">15</string>
+    <string text="upgrade11_damagerModifier">0</string>
+    <string text="upgrade11_healthModifier">50</string>
+    <string text="upgrade11_speedModifier">-25</string>
+    <string text="upgrade11_resistanceModifier">20</string>
+    <string text="upgrade11_attackSpeedModifier">0</string>
+    <string text="upgrade11_accuracyModifier">0</string>
+    <string text="upgrade11_type">0</string>
+
+    <string text="upgrade12_name">Advanced Production</string>
+    <string text="upgrade12_desc">Increase the maximum number of friendly units allowed out by 4.</string>
+    <string text="upgrade12_cost">600</string>
+    <string text="upgrade12_levelReq">17</string>
+    <string text="upgrade12_damagerModifier">0</string>
+    <string text="upgrade12_healthModifier">0</string>
+    <string text="upgrade12_speedModifier">0</string>
+    <string text="upgrade12_resistanceModifier">0</string>
+    <string text="upgrade12_attackSpeedModifier">0</string>
+    <string text="upgrade12_accuracyModifier">0</string>
+    <string text="upgrade12_type">2</string>
+
+    <string text="upgrade13_name">Extra Building Slots</string>
+    <string text="upgrade13_desc">Increase the maximum number of friendly buildings allowed out by 2.</string>
+    <string text="upgrade13_cost">600</string>
+    <string text="upgrade13_levelReq">17</string>
+    <string text="upgrade13_damagerModifier">0</string>
+    <string text="upgrade13_healthModifier">0</string>
+    <string text="upgrade13_speedModifier">0</string>
+    <string text="upgrade13_resistanceModifier">0</string>
+    <string text="upgrade13_attackSpeedModifier">0</string>
+    <string text="upgrade13_accuracyModifier">0</string>
+    <string text="upgrade13_type">2</string>
+
+    <string text="upgrade14_name">Tough Skin</string>
+    <string text="upgrade14_desc">Increases this units resistance to all incoming damage by 15%</string>
+    <string text="upgrade14_cost">375</string>
+    <string text="upgrade14_levelReq">10</string>
+    <string text="upgrade14_damagerModifier">0</string>
+    <string text="upgrade14_healthModifier">0</string>
+    <string text="upgrade14_speedModifier">0</string>
+    <string text="upgrade14_resistanceModifier">15</string>
+    <string text="upgrade14_attackSpeedModifier">0</string>
+    <string text="upgrade14_accuracyModifier">0</string>
+    <string text="upgrade14_type">0</string>
+  </EN>
+
+  <FR>
+    <string text="upgrade1_name"></string>
+    <string text="upgrade1_desc"></string>
+    <string text="upgrade2_name"></string>
+    <string text="upgrade2_desc"></string>
+    <string text="upgrade3_name"></string>
+    <string text="upgrade3_desc"></string>
+    <string text="upgrade4_name"></string>
+    <string text="upgrade4_desc"></string>
+    <string text="upgrade5_name"></string>
+    <string text="upgrade5_desc"></string>
+    <string text="upgrade6_name"></string>
+    <string text="upgrade6_desc"></string>
+    <string text="upgrade7_name"></string>
+    <string text="upgrade7_desc"></string>
+    <string text="upgrade8_name"></string>
+    <string text="upgrade8_desc"></string>
+    <string text="upgrade9_name"></string>
+    <string text="upgrade9_desc"></string>
+    <string text="upgrade10_name"></string>
+    <string text="upgrade10_desc"></string>
+    <string text="upgrade11_name"></string>
+    <string text="upgrade11_desc"></string>
+    <string text="upgrade12_name"></string>
+    <string text="upgrade12_desc"></string>
+  </FR>
+
+  <DE>
+    <string text="upgrade1_name"></string>
+    <string text="upgrade1_desc"></string>
+    <string text="upgrade2_name"></string>
+    <string text="upgrade2_desc"></string>
+    <string text="upgrade3_name"></string>
+    <string text="upgrade3_desc"></string>
+    <string text="upgrade4_name"></string>
+    <string text="upgrade4_desc"></string>
+    <string text="upgrade5_name"></string>
+    <string text="upgrade5_desc"></string>
+    <string text="upgrade6_name"></string>
+    <string text="upgrade6_desc"></string>
+    <string text="upgrade7_name"></string>
+    <string text="upgrade7_desc"></string>
+    <string text="upgrade8_name"></string>
+    <string text="upgrade8_desc"></string>
+    <string text="upgrade9_name"></string>
+    <string text="upgrade9_desc"></string>
+    <string text="upgrade10_name"></string>
+    <string text="upgrade10_desc"></string>
+    <string text="upgrade11_name"></string>
+    <string text="upgrade11_desc"></string>
+    <string text="upgrade12_name"></string>
+    <string text="upgrade12_desc"></string>
+  </DE>
+
+  <RU>
+    <string text="upgrade1_name"></string>
+    <string text="upgrade1_desc"></string>
+    <string text="upgrade2_name"></string>
+    <string text="upgrade2_desc"></string>
+    <string text="upgrade3_name"></string>
+    <string text="upgrade3_desc"></string>
+    <string text="upgrade4_name"></string>
+    <string text="upgrade4_desc"></string>
+    <string text="upgrade5_name"></string>
+    <string text="upgrade5_desc"></string>
+    <string text="upgrade6_name"></string>
+    <string text="upgrade6_desc"></string>
+    <string text="upgrade7_name"></string>
+    <string text="upgrade7_desc"></string>
+    <string text="upgrade8_name"></string>
+    <string text="upgrade8_desc"></string>
+    <string text="upgrade9_name"></string>
+    <string text="upgrade9_desc"></string>
+    <string text="upgrade10_name"></string>
+    <string text="upgrade10_desc"></string>
+    <string text="upgrade11_name"></string>
+    <string text="upgrade11_desc"></string>
+    <string text="upgrade12_name"></string>
+    <string text="upgrade12_desc"></string>
+  </RU>
+
+  <JP>
+    <string text="upgrade1_name"></string>
+    <string text="upgrade1_desc"></string>
+    <string text="upgrade2_name"></string>
+    <string text="upgrade2_desc"></string>
+    <string text="upgrade3_name"></string>
+    <string text="upgrade3_desc"></string>
+    <string text="upgrade4_name"></string>
+    <string text="upgrade4_desc"></string>
+    <string text="upgrade5_name"></string>
+    <string text="upgrade5_desc"></string>
+    <string text="upgrade6_name"></string>
+    <string text="upgrade6_desc"></string>
+    <string text="upgrade7_name"></string>
+    <string text="upgrade7_desc"></string>
+    <string text="upgrade8_name"></string>
+    <string text="upgrade8_desc"></string>
+    <string text="upgrade9_name"></string>
+    <string text="upgrade9_desc"></string>
+    <string text="upgrade10_name"></string>
+    <string text="upgrade10_desc"></string>
+    <string text="upgrade11_name"></string>
+    <string text="upgrade11_desc"></string>
+    <string text="upgrade12_name"></string>
+    <string text="upgrade12_desc"></string>
+  </JP>
+</languages>

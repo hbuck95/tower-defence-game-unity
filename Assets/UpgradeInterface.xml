@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<languages>
+    <EN>
+      <string text="upgrade_title">&lt;b&gt;Upgrade&lt;/b&gt;</string>
+      <string text="filter_title">&lt;b&gt;Filter Upgrades&lt;/b&gt;</string>
+      <string text="filter_unit">&lt;b&gt;Unit&lt;/b&gt;</string>
+      <string text="filter_building">&lt;b&gt;Building&lt;/b&gt;</string>
+      <string text="filter_health">Health</string>
+      <string text="filter_damage">Damage</string>
+      <string text="filter_speed">Speed</string>
+      <string text="filter_defence">Defence</string>
+      <string text="search_text">Enter text...</string>
+      <string text="sell">Sell</string>
+      <string text="buy">Buy</string>
+      <string text="cancel">Cancel</string>
+		</EN>
+     
+    <FR>
+      <string text="upgrade_title">Améliorer</string>
+      <string text="filter_title">&lt;b&gt;Classer S'améliorer&lt;/b&gt;</string>
+      <string text="filter_unit">&lt;b&gt;Unité&lt;/b&gt;</string>
+      <string text="filter_building">&lt;b&gt;Bâtiment&lt;/b&gt;</string>
+      <string text="filter_health">Santé</string>
+      <string text="filter_damage">Endommager</string>
+      <string text="filter_speed">Rapidité</string>
+      <string text="filter_defence">Défense</string>
+      <string text="search_text">Entrez texte...</string>
+      <string text="sell">Revendre</string>
+      <string text="buy">Acheter</string>
+      <string text="cancel">Annuler</string>
+    </FR>
+     
+    <DE>
+     
+    </DE>
+		
+		<RU>
+      
+		</RU>
+		
+		<JP>
+      
+		</JP>
+    </languages>

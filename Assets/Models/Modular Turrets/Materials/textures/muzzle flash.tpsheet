@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: gatflash.png (512 x 512)
+# $TexturePacker:SmartUpdate:abc769a8e667463392562380a9f6d53f:59dc80d50200a78b29ddff3ffa12ca1f:911d782b75d83ead89f3d2f4a3aece2a$
+#
+
+gatflash0001;0;384;128;128;0.5;0.5
+gatflash0002;128;384;128;128;0.5;0.5
+gatflash0003;256;384;128;128;0.5;0.5
+gatflash0004;384;384;128;128;0.5;0.5
+gatflash0005;0;256;128;128;0.5;0.5
+gatflash0006;128;256;128;128;0.5;0.5
+gatflash0007;256;256;128;128;0.5;0.5
+gatflash0008;384;256;128;128;0.5;0.5
+gatflash0009;0;128;128;128;0.5;0.5
+gatflash0010;128;128;128;128;0.5;0.5
+gatflash0011;256;128;128;128;0.5;0.5
+gatflash0012;384;128;128;128;0.5;0.5
+gatflash0013;0;0;128;128;0.5;0.5
+gatflash0014;128;0;128;128;0.5;0.5
+gatflash0015;256;0;128;128;0.5;0.5
+gatflash0016;384;0;128;128;0.5;0.5

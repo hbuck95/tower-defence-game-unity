@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Friendly
+  - UI
+  - Player 1
+  - Player 2
+  - Tower
+  - Filter Health
+  - Filter Defence
+  - Filter Damage
+  - Filter Speed
+  - UpgradeMenuItem
+  - EnemySpawn
+  - FriendlySpawn
+  - FriendlyTower
+  - EnemyTower
+  - Projectile
+  - StatModifier
+  - FriendlyTowerGun
+  - EnemyTowerGun
+  - HasUpgrade
+  - FriendlyProjectile
+  - EnemyProjectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CollisionCheck
+  - Enemy
+  - Friendly
+  - Camera
+  - fp
+  - ep
+  - BuildingPlacement
+  - EHalf
+  - FHalf
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

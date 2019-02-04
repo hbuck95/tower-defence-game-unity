@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<languages>
+    <EN>
+			<string text="xml_test">Hello World!</string>
+		</EN>
+     
+    <FR>
+      <string text="xml_test">Bonjour le monde!</string>
+    </FR>
+     
+    <DE>
+      <string text="xml_test">Hallo Welt!</string>
+    </DE>
+		
+		<RU>
+      <string text="xml_test">Привет мир</string>
+		</RU>
+		
+		<JP>
+      <string text="xml_test">こんにちは世界</string>
+		</JP>
+    </languages>
